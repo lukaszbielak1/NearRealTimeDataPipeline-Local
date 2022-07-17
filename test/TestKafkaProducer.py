@@ -1,7 +1,6 @@
 import unittest
 import context
 from src.KafkaProducer import KafkaProducer
-
 import json
 
 class TestKafkaProducer(unittest.TestCase):

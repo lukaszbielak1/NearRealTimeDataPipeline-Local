@@ -1,3 +1,4 @@
+#Only example
 CLOUDKARAFKA:
   CLOUDKARAFKA_BROKERS: "srv1.srvs.cloudkafka.com:9094, srv2.srvs.cloudkafka.com:9094, srv3.srvs.cloudkafka.com:9094"
   CLOUDKARAFKA_USERNAME: user
