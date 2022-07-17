@@ -1,0 +1,4 @@
+API:
+  BUS_API_URL: https://ckan2.multimediagdansk.pl/gpsPositions?v=2
+TEST_CASE:
+  TEST_CASE: "PASS"

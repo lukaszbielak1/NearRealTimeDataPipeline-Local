@@ -1,0 +1,8 @@
+CLOUDKARAFKA:
+  CLOUDKARAFKA_BROKERS: "srv1.srvs.cloudkafka.com:9094, srv2.srvs.cloudkafka.com:9094, srv3.srvs.cloudkafka.com:9094"
+  CLOUDKARAFKA_USERNAME: user
+  CLOUDKARAFKA_PASSWORD: password
+  CLOUDKARAFKA_TOPIC: topicname
+API:
+  BUS_API_URL: https://ckan2.multimediagdansk.pl/gpsPositions?v=2
+
